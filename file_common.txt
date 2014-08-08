@@ -1,0 +1,2 @@
+file common in b set
+b
