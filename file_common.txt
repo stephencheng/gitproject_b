@@ -1,2 +1,2 @@
-file common
-a
+file common merged
+a and b
